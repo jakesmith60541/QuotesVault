@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB8Db0a6297B40b2d424999246159f3385AcF1740",
+  "SCAN_LINK": "https://polygonscan.com/address/0xB8Db0a6297B40b2d424999246159f3385AcF1740",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "QuoteVault",
+  "SYMBOL": "QTS",
+  "MAX_SUPPLY": 7538,
+  "WEI_COST": 55000000000000000000,
+  "DISPLAY_COST": 55,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/quotesvault",
+  "SHOW_BACKGROUND": true
+}
